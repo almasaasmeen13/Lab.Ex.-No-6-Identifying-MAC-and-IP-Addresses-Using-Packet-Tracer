@@ -48,10 +48,9 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
-•	PDU details for remote communication<br>
-•	Tables showing MAC/IP changes through each device<br>
-________________________________________
+<img width="1600" height="997" alt="image" src="https://github.com/user-attachments/assets/92b6514b-ef3d-424b-b58e-bcb3fca284aa" />
+<img width="1600" height="1003" alt="image" src="https://github.com/user-attachments/assets/883f93a8-ecba-40f3-808a-bab304b0d0c1" />
+
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
 
